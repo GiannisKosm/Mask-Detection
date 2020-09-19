@@ -1,6 +1,0 @@
-Κατεβάστε το αρχειο yolov3.weights απο wget https://pjreddie.com/media/files/yolov3.weights.
-Εγκαταστήστε το opencv και το numpy.
-Τρέξτε το .py αρχείο με τα default αρχεία που έχω επισυνάψει.
-
-Προβλήματα:
--Αργό διάβασμα βίντεο μέσω της καμέρας (Λύθηκε: Εξαρτάται απο hardware)
